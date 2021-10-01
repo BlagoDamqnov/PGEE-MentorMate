@@ -1,0 +1,15 @@
+D:\PGEE-MentroMate\NumberRange\NumberRange\bin\Debug\net5.0\NumberRange.exe
+D:\PGEE-MentroMate\NumberRange\NumberRange\bin\Debug\net5.0\NumberRange.deps.json
+D:\PGEE-MentroMate\NumberRange\NumberRange\bin\Debug\net5.0\NumberRange.runtimeconfig.json
+D:\PGEE-MentroMate\NumberRange\NumberRange\bin\Debug\net5.0\NumberRange.runtimeconfig.dev.json
+D:\PGEE-MentroMate\NumberRange\NumberRange\bin\Debug\net5.0\NumberRange.dll
+D:\PGEE-MentroMate\NumberRange\NumberRange\bin\Debug\net5.0\ref\NumberRange.dll
+D:\PGEE-MentroMate\NumberRange\NumberRange\bin\Debug\net5.0\NumberRange.pdb
+D:\PGEE-MentroMate\NumberRange\NumberRange\obj\Debug\net5.0\NumberRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGEE-MentroMate\NumberRange\NumberRange\obj\Debug\net5.0\NumberRange.AssemblyInfoInputs.cache
+D:\PGEE-MentroMate\NumberRange\NumberRange\obj\Debug\net5.0\NumberRange.AssemblyInfo.cs
+D:\PGEE-MentroMate\NumberRange\NumberRange\obj\Debug\net5.0\NumberRange.csproj.CoreCompileInputs.cache
+D:\PGEE-MentroMate\NumberRange\NumberRange\obj\Debug\net5.0\NumberRange.dll
+D:\PGEE-MentroMate\NumberRange\NumberRange\obj\Debug\net5.0\ref\NumberRange.dll
+D:\PGEE-MentroMate\NumberRange\NumberRange\obj\Debug\net5.0\NumberRange.pdb
+D:\PGEE-MentroMate\NumberRange\NumberRange\obj\Debug\net5.0\NumberRange.genruntimeconfig.cache
