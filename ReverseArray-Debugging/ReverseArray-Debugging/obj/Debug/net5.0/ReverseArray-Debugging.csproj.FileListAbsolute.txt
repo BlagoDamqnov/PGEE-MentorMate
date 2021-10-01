@@ -1,0 +1,16 @@
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\bin\Debug\net5.0\ReverseArray-Debugging.exe
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\bin\Debug\net5.0\ReverseArray-Debugging.deps.json
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\bin\Debug\net5.0\ReverseArray-Debugging.runtimeconfig.json
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\bin\Debug\net5.0\ReverseArray-Debugging.runtimeconfig.dev.json
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\bin\Debug\net5.0\ReverseArray-Debugging.dll
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\bin\Debug\net5.0\ref\ReverseArray-Debugging.dll
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\bin\Debug\net5.0\ReverseArray-Debugging.pdb
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ReverseArray-Debugging.csproj.AssemblyReference.cache
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ReverseArray-Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ReverseArray-Debugging.AssemblyInfoInputs.cache
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ReverseArray-Debugging.AssemblyInfo.cs
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ReverseArray-Debugging.csproj.CoreCompileInputs.cache
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ReverseArray-Debugging.dll
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ref\ReverseArray-Debugging.dll
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ReverseArray-Debugging.pdb
+D:\PGEE-MentroMate\ReverseArray-Debugging\ReverseArray-Debugging\obj\Debug\net5.0\ReverseArray-Debugging.genruntimeconfig.cache
