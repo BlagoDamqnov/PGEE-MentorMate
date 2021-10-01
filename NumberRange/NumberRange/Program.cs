@@ -29,12 +29,30 @@ namespace NumberRange
 
             Console.WriteLine();
 
-            Array.Sort(arrayOfnumber);
+            SortBubble(arrayOfnumber);
 
             for (int i = 0; i < count; i++)
             {
                 Console.WriteLine(arrayOfnumber[i]);
             }
         }
+        public static void SortBubble(double[] arr)
+        {
+            for (int i = 0; i < arr.Length-1 ; i++)
+            {
+                for (int j = 0; j < arr.Length-1 ; j++)
+                {
+                    if (arr[j]>arr[j+1])
+                    { 
+                        double temp = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = temp;
+                    }
+                   
+                }
+            }
+
+        }
     }
+
 }

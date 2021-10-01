@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PGEE-MentroMate\\NumberRange\\NumberRange\\NumberRange.csproj",
+      "projectUniqueName": "D:\\MentorMate-PGEE\\NumberRange\\NumberRange\\NumberRange.csproj",
       "projectName": "NumberRange",
-      "projectPath": "D:\\PGEE-MentroMate\\NumberRange\\NumberRange\\NumberRange.csproj",
+      "projectPath": "D:\\MentorMate-PGEE\\NumberRange\\NumberRange\\NumberRange.csproj",
       "packagesPath": "C:\\Users\\chess\\.nuget\\packages\\",
-      "outputPath": "D:\\PGEE-MentroMate\\NumberRange\\NumberRange\\obj\\",
+      "outputPath": "D:\\MentorMate-PGEE\\NumberRange\\NumberRange\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
