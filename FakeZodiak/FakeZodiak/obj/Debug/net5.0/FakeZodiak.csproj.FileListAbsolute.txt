@@ -1,0 +1,16 @@
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\bin\Debug\net5.0\FakeZodiak.exe
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\bin\Debug\net5.0\FakeZodiak.deps.json
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\bin\Debug\net5.0\FakeZodiak.runtimeconfig.json
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\bin\Debug\net5.0\FakeZodiak.runtimeconfig.dev.json
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\bin\Debug\net5.0\FakeZodiak.dll
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\bin\Debug\net5.0\ref\FakeZodiak.dll
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\bin\Debug\net5.0\FakeZodiak.pdb
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\FakeZodiak.csproj.AssemblyReference.cache
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\FakeZodiak.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\FakeZodiak.AssemblyInfoInputs.cache
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\FakeZodiak.AssemblyInfo.cs
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\FakeZodiak.csproj.CoreCompileInputs.cache
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\FakeZodiak.dll
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\ref\FakeZodiak.dll
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\FakeZodiak.pdb
+D:\PGEE-MentroMate\FakeZodiak\FakeZodiak\obj\Debug\net5.0\FakeZodiak.genruntimeconfig.cache
