@@ -1,0 +1,16 @@
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\bin\Debug\net5.0\SumOfNumberDigits.exe
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\bin\Debug\net5.0\SumOfNumberDigits.deps.json
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\bin\Debug\net5.0\SumOfNumberDigits.runtimeconfig.json
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\bin\Debug\net5.0\SumOfNumberDigits.runtimeconfig.dev.json
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\bin\Debug\net5.0\SumOfNumberDigits.dll
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\bin\Debug\net5.0\ref\SumOfNumberDigits.dll
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\bin\Debug\net5.0\SumOfNumberDigits.pdb
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\SumOfNumberDigits.csproj.AssemblyReference.cache
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\SumOfNumberDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\SumOfNumberDigits.AssemblyInfoInputs.cache
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\SumOfNumberDigits.AssemblyInfo.cs
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\SumOfNumberDigits.csproj.CoreCompileInputs.cache
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\SumOfNumberDigits.dll
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\ref\SumOfNumberDigits.dll
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\SumOfNumberDigits.pdb
+D:\MentorMate-PGEE\SumOfNumberDigits\SumOfNumberDigits\obj\Debug\net5.0\SumOfNumberDigits.genruntimeconfig.cache

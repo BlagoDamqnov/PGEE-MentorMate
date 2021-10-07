@@ -13,18 +13,24 @@ namespace NumberRange
             double[] arrayOfnumber = new double[count];
 
             for (int i = 0; i < count; i++)
-            {
+            { 
                 arrayOfnumber[i] = double.Parse(Console.ReadLine());
-                if (arrayOfnumber[i]>=-99.99 &&
-                    arrayOfnumber[i]<=99.99)
+                while (arrayOfnumber[i]==arrayOfnumber.Length)
                 {
-                   
+                    if (!(arrayOfnumber[i] >= -99.99 &&
+                   arrayOfnumber[i] <= 99.99))
+                    {
+                        Console.WriteLine("Enter number again between -99.99 and 99.99.");
+                        arrayOfnumber[i] = double.Parse(Console.ReadLine());
+
+                    }
+                    else
+                    {
+                        SortBubble(arrayOfnumber);
+                       
+                    }
                 }
-                else
-                {
-                    Console.WriteLine("Enter number again between -99.99 and 99.99.");
-                    arrayOfnumber[i] = double.Parse(Console.ReadLine());
-                }
+               
             }
 
             Console.WriteLine();

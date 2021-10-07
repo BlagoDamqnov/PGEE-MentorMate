@@ -1,0 +1,15 @@
+D:\MentorMate-PGEE\Card\Card\bin\Debug\net5.0\Card.exe
+D:\MentorMate-PGEE\Card\Card\bin\Debug\net5.0\Card.deps.json
+D:\MentorMate-PGEE\Card\Card\bin\Debug\net5.0\Card.runtimeconfig.json
+D:\MentorMate-PGEE\Card\Card\bin\Debug\net5.0\Card.runtimeconfig.dev.json
+D:\MentorMate-PGEE\Card\Card\bin\Debug\net5.0\Card.dll
+D:\MentorMate-PGEE\Card\Card\bin\Debug\net5.0\ref\Card.dll
+D:\MentorMate-PGEE\Card\Card\bin\Debug\net5.0\Card.pdb
+D:\MentorMate-PGEE\Card\Card\obj\Debug\net5.0\Card.GeneratedMSBuildEditorConfig.editorconfig
+D:\MentorMate-PGEE\Card\Card\obj\Debug\net5.0\Card.AssemblyInfoInputs.cache
+D:\MentorMate-PGEE\Card\Card\obj\Debug\net5.0\Card.AssemblyInfo.cs
+D:\MentorMate-PGEE\Card\Card\obj\Debug\net5.0\Card.csproj.CoreCompileInputs.cache
+D:\MentorMate-PGEE\Card\Card\obj\Debug\net5.0\Card.dll
+D:\MentorMate-PGEE\Card\Card\obj\Debug\net5.0\ref\Card.dll
+D:\MentorMate-PGEE\Card\Card\obj\Debug\net5.0\Card.pdb
+D:\MentorMate-PGEE\Card\Card\obj\Debug\net5.0\Card.genruntimeconfig.cache

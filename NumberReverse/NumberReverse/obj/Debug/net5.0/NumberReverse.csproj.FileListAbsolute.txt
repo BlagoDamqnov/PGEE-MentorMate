@@ -1,0 +1,15 @@
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.exe
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.deps.json
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.runtimeconfig.json
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.runtimeconfig.dev.json
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.dll
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\bin\Debug\net5.0\ref\NumberReverse.dll
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.pdb
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.AssemblyInfoInputs.cache
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.AssemblyInfo.cs
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.csproj.CoreCompileInputs.cache
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.dll
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\obj\Debug\net5.0\ref\NumberReverse.dll
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.pdb
+D:\MentorMate-PGEE\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.genruntimeconfig.cache

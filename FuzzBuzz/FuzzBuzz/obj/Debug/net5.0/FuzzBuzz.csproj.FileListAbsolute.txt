@@ -1,0 +1,15 @@
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\bin\Debug\net5.0\FuzzBuzz.exe
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\bin\Debug\net5.0\FuzzBuzz.deps.json
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\bin\Debug\net5.0\FuzzBuzz.runtimeconfig.json
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\bin\Debug\net5.0\FuzzBuzz.runtimeconfig.dev.json
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\bin\Debug\net5.0\FuzzBuzz.dll
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\bin\Debug\net5.0\ref\FuzzBuzz.dll
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\bin\Debug\net5.0\FuzzBuzz.pdb
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\obj\Debug\net5.0\FuzzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\obj\Debug\net5.0\FuzzBuzz.AssemblyInfoInputs.cache
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\obj\Debug\net5.0\FuzzBuzz.AssemblyInfo.cs
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\obj\Debug\net5.0\FuzzBuzz.csproj.CoreCompileInputs.cache
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\obj\Debug\net5.0\FuzzBuzz.dll
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\obj\Debug\net5.0\ref\FuzzBuzz.dll
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\obj\Debug\net5.0\FuzzBuzz.pdb
+D:\MentorMate-PGEE\FuzzBuzz\FuzzBuzz\obj\Debug\net5.0\FuzzBuzz.genruntimeconfig.cache
