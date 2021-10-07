@@ -1,0 +1,16 @@
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\bin\Debug\net5.0\PeopleCard.exe
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\bin\Debug\net5.0\PeopleCard.deps.json
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\bin\Debug\net5.0\PeopleCard.runtimeconfig.json
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\bin\Debug\net5.0\PeopleCard.runtimeconfig.dev.json
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\bin\Debug\net5.0\PeopleCard.dll
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\bin\Debug\net5.0\ref\PeopleCard.dll
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\bin\Debug\net5.0\PeopleCard.pdb
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\PeopleCard.csproj.AssemblyReference.cache
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\PeopleCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\PeopleCard.AssemblyInfoInputs.cache
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\PeopleCard.AssemblyInfo.cs
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\PeopleCard.csproj.CoreCompileInputs.cache
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\PeopleCard.dll
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\ref\PeopleCard.dll
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\PeopleCard.pdb
+D:\MentorMate-PGEE\PeopleCard\PeopleCard\obj\Debug\net5.0\PeopleCard.genruntimeconfig.cache
